@@ -1,0 +1,24 @@
+:root {
+  --color-paper: #f7f8ef;
+  --color-surface: #ffffff;
+  --color-ink: #242814;
+  --color-brand: #4d7c0f;
+  --color-accent: #a3e635;
+  --color-focus: #ecfccb;
+}
+
+body {
+    background-color: var(--color-paper);
+    color: var(--color-ink);
+}
+h1,h2{
+    color: var(--color-ink);
+}
+
+p{
+    color:var(--color-ink);
+}
+
+.first-p{
+    color: #6519c9;
+}
